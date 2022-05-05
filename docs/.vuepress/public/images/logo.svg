@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="350"
+   viewBox="0 0 92.604167 92.604168"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="opensealogo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.2035073"
+     inkscape:cx="251.9114"
+     inkscape:cy="142.03183"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient37658">
+      <stop
+         style="stop-color:#094bac;stop-opacity:1;"
+         offset="0"
+         id="stop37654" />
+      <stop
+         style="stop-color:#a8cbfe;stop-opacity:1"
+         offset="1"
+         id="stop37656" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient36646">
+      <stop
+         style="stop-color:#3485fd;stop-opacity:1;"
+         offset="0"
+         id="stop36642" />
+      <stop
+         style="stop-color:#073984;stop-opacity:1"
+         offset="1"
+         id="stop36644" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27044">
+      <stop
+         style="stop-color:#3485fd;stop-opacity:1;"
+         offset="0"
+         id="stop27040" />
+      <stop
+         style="stop-color:#3485fd;stop-opacity:0;"
+         offset="1"
+         id="stop27042" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27044"
+       id="linearGradient27046"
+       x1="-33.639091"
+       y1="-12.381055"
+       x2="375.16931"
+       y2="365.82513"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28743062,0,0,0.30837903,-41.271569,-20.477296)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36646"
+       id="linearGradient36640"
+       x1="198.09686"
+       y1="147.87184"
+       x2="143.66695"
+       y2="76.388771"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-147.05759,-91.005802)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37658"
+       id="linearGradient37660"
+       x1="21.491642"
+       y1="235.00644"
+       x2="451.55811"
+       y2="269.81357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(55.499534,-196.34643)" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="图层 2"
+     style="display:inline"
+     transform="translate(34.271591,13.013555)">
+    <rect
+       style="fill:url(#linearGradient27046);fill-opacity:1;stroke:#e94003;stroke-width:0.376615;stroke-opacity:0.813115"
+       id="rect25426"
+       width="117.50407"
+       height="116.63084"
+       x="-50.940472"
+       y="-24.295351" />
+  </g>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(34.271591,13.013555)">
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:url(#linearGradient37660);fill-opacity:1;stroke-width:0.264583"
+       x="72.971786"
+       y="73.426277"
+       id="text737-3"><tspan
+         sodipodi:role="line"
+         style="font-size:11.2889px;fill:url(#linearGradient37660);fill-opacity:1;stroke-width:0.264583"
+         x="72.971786"
+         y="73.426277"
+         id="tspan739-3">Unit Domains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="34.339905"
+       y="103.72053"
+       id="text12915"><tspan
+         sodipodi:role="line"
+         id="tspan12913"
+         style="stroke-width:0.264583"
+         x="34.339905"
+         y="103.72053"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="图层 3"
+     transform="translate(34.271591,13.013555)">
+    <text
+       xml:space="preserve"
+       style="font-size:66.3222px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#a8cbfe;fill-opacity:1;stroke-width:0.264583"
+       x="-11.488355"
+       y="56.104794"
+       id="text27865"><tspan
+         sodipodi:role="line"
+         id="tspan27863"
+         style="font-size:66.3222px;fill:#a8cbfe;fill-opacity:1;stroke-width:0.264583"
+         x="-11.488355"
+         y="56.104794">U</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:66.3222px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:url(#linearGradient36640);fill-opacity:1;stroke-width:0.264583"
+       x="-12.096709"
+       y="55.641632"
+       id="text27865-6"><tspan
+         sodipodi:role="line"
+         id="tspan27863-2"
+         style="font-size:66.3222px;fill:url(#linearGradient36640);fill-opacity:1;stroke-width:0.264583"
+         x="-12.096709"
+         y="55.641632">U</tspan></text>
+  </g>
+</svg>
