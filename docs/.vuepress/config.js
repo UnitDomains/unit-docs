@@ -47,6 +47,8 @@ module.exports = {
 
         "/zh/Terminology.md",
 
+        "/zh/SupportDomains.md",
+
         {
           text: "域名管理",
           link: "/zh/domains/",
@@ -68,6 +70,8 @@ module.exports = {
         "/Introduction.md",
 
         "/Terminology.md",
+
+        "/SupportDomains.md",
 
         {
           text: "Domain Management",
