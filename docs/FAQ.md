@@ -20,7 +20,8 @@ Users need to charge a fee to register a domain name, including registration fee
   * Currently, The registration fee is 100ETH for a domain name of length 1
   * Currently, The registration fee is 10ETH for a domain name of length 2
   * Currently, The registration fee is 1ETH for a domain name of length 3
-  * Currently, The registration fee is 0 for a domain name greater than 3 in length
+  * Currently, The registration fee is 0.1ETH for a domain name of length 4
+  * Currently, The registration fee is 0 for a domain name greater than 4 in length
   
 * Renewal will not be charged.  Rental fees are charged according to the length of time.  The shorter the domain, the higher the cost.  
   * Currently, a domain name of 1 length costs 1ETH per year
