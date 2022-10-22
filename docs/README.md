@@ -9,6 +9,9 @@ actions:
   - text: Domain Management
     link: /domains/
     type: secondary
+  - text: Dapp
+    link: /dapp/
+    type: secondary
   - text: FAQ
     link: FAQ.html
     type: secondary

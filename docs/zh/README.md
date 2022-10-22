@@ -9,6 +9,9 @@ actions:
   - text: 域名管理
     link: /zh/domains/
     type: secondary
+  - text: Dapp开发
+    link: /zh/dapp/
+    type: secondary
   - text: 常见问题
     link: /zh/FAQ.html
     type: secondary
